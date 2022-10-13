@@ -1,8 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
-
-**Please remember to update this section**
-
-- Your title can change over time.
+# Group 28 - Analysis of FIFA 22 Dataset
 
 ## Milestones
 
