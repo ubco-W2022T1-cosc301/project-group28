@@ -21,7 +21,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 **Please remember to update this section**
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Wilfred Meyer: I am in my 5th year at UBCO I have finished my electrical engineering degree requirements and am pursuing my cosc minor credit requirements now.
 - Person 3: one sentence about you!
 
 ## Images
