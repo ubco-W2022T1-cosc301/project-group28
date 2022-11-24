@@ -10,10 +10,10 @@ def convert_with_text_to_number(value):
         if "€" in value:
             value = str(value).strip('€')
             if "M" in value:
-                value = re.sub("[^0-9]", "", value)
+                value = re.sub("[^0-9.]", "", value)
                 value = float(value)*1000000
             elif "K" in value: 
-                value = re.sub("[^0-9]", "", value)
+                value = re.sub("[^0-9.]", "", value)
                 value = float(value)*1000
         else:
             value = ''.join([i for i in value if i.isdigit()])
@@ -45,13 +45,13 @@ def get_cleaned_data(location):
       .assign(OnLoan=lambda x: np.where(x.LoanedFrom.notnull, "No", "Yes"))
      )
 
-    df_cleaned['Value'] = df_cleaned['Value'].map(lambda x: convert_with_text_to_number(x))
-    df_cleaned['Wage'] = df_cleaned['Wage'].map(lambda x: convert_with_text_to_number(x))
-    df_cleaned['Release Clause'] = df_cleaned['Release Clause'].map(lambda x: convert_with_text_to_number(x))
+    df_cleaned['Value'] = df_cleaned['Value'].map(lambda x: float(convert_with_text_to_number(x)))
+    df_cleaned['Wage'] = df_cleaned['Wage'].map(lambda x: float(convert_with_text_to_number(x)))
+    df_cleaned['Release Clause'] = df_cleaned['Release Clause'].map(lambda x: float(convert_with_text_to_number(x)))
     df_cleaned['Position'] = df_cleaned['Position'].map(lambda x: clean_position(x))
     df_cleaned['Name'] = df_cleaned['Name'].map(lambda x: clean_name(x))
-    df_cleaned['Weight'] = df_cleaned['Weight'].map(lambda x: convert_with_text_to_number(x))
-    df_cleaned['Height'] = df_cleaned['Height'].map(lambda x: convert_with_text_to_number(x))
+    df_cleaned['Weight'] = df_cleaned['Weight'].map(lambda x: float(convert_with_text_to_number(x)))
+    df_cleaned['Height'] = df_cleaned['Height'].map(lambda x: float(convert_with_text_to_number(x)))
 
     return df_cleaned
   
