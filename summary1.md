@@ -73,3 +73,16 @@ The following is what can answer the above question:
 <br>
 <hr/>
 <br>
+
+<img src ="images/301_graphs.png" width='500px'> <br>
+
+<h2> Question 2: </h2>
+
+<h3> I wish to find out if Center Attack Midfielders are generally better than players in other positions, as CAM are often thought of as the most technically gifted. </h3>
+<br>
+I used the five stats that have been graphed above. I used them because my knowledge of FIFA is quite limited and I thought of these stats to be the most "skillful" of what was in the data set. 
+<br><br>
+I used the overall rating to see where the CAM position compared to the others in general. This gave me a good starting point, so far the CAM position is really good, but is not far and above other positions.However, this led me to question wether or not certain positions on the field are more prone to more/less of a certain stats, purely based on physical position on the field. So as the CAM position is further up the field their defensive stats ended up being much lower than many other positions. I concluded that the CAM position must be in a worse place to gain defensive stats. So I removed the defensive stats from the analysis as I wanted to know if CAM players were the most technically gifted. I was left with dribbling, short passing, crossing, and shot power. I found that the CAM players are still arguably contains the best offensive technical players on the field, however the position itself is not far more or less impressive than many other position.
+<br>
+<hr/>
+<br>
