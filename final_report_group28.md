@@ -85,7 +85,7 @@ The following is what can answer the above question:
 
 <h3> I wish to find out if Center Attack Midfielders are generally better than players in other positions, as CAM are often thought of as the most technically gifted. </h3>
 
-<img src ="images/301_graphs.png" width='500px'> <br>
+<img src ="images/301_graphs.png"> <br>
 
 
 <br>
@@ -106,8 +106,8 @@ I used the overall rating to see where the CAM position compared to the others i
 To find out a relationship between age and performance, we use a simple scatter plot with age on y-axis and player performance or overall rating on the x-axis.
 We can clearly see a linear positive relationship as age increases, overall increases but we do see an overplot in certain regions indicating that most of the players are in that overall and age region.
 
-<img src ="images/Analysis3/scatter1.png" width='500px'>   
-<img src ="images/Analysis3/barplot.png" width='500px'>   
+<img src ="images/Analysis3/scatter1.png" width='300px'>   
+<img src ="images/Analysis3/barplot.png" width='300px'>   
 
 <hr/>
 <br>
@@ -131,8 +131,8 @@ b) Distribution of Player Age and Overall with Dribbling Rating: shows that the 
 c) Specific Age and Overall vs ATT, DEF, PAC, PHY, DRI, and PAS plots are shown on Dashboard3, interesting trends such as a positive correlation relationship between technical attributes (ATT, DEF, DRI, PAS) while there is a negative correlation with PHY and PAC attributes with an exception in Strength as age increases.
 <br>
 
-<img src ="images/Analysis3/tableau1.png" width='500px'> 
-<img src ="images/Analysis3/tableau2.png" width='500px'> 
+<img src ="images/Analysis3/tableau1.png" width='300px'> 
+<img src ="images/Analysis3/tableau2.png" width='300px'> 
 
 [You can find the full analysis notebook here, including the code and the data here](./notebooks/analysis3.ipynb)
 
