@@ -118,15 +118,13 @@ We took a few different plots to see the specific differences between stats and 
 
 a) Heatmap of Overall, Shooting Attributes and Age: a positive correlation with age and shot power (indicating an increase in shot power with age) and shooting attributes with overall 
 
+<img src ="images/Analysis3/heatmap.png" width='500px'> 
   
-<img src ="images/Analysis3/dribbling1.png" width='500px'>   
-
 <br>
 
 b) Distribution of Player Age and Overall with Dribbling Rating: shows that the dribbling rating usually peaks around age 24-27 and tends to drop after that age.
 
-<img src ="images/Analysis3/heatmap.png" width='500px'> 
-
+<img src ="images/Analysis3/dribbling1.png" width='500px'> 
 
 c) Specific Age and Overall vs ATT, DEF, PAC, PHY, DRI, and PAS plots are shown on Dashboard3, interesting trends such as a positive correlation relationship between technical attributes (ATT, DEF, DRI, PAS) while there is a negative correlation with PHY and PAC attributes with an exception in Strength as age increases.
 <br>
