@@ -76,6 +76,7 @@ The following is what can answer the above question:
 1. On average, players from Europe and South America are valued more and have higher wages
 1. CF and RAM are the most rarest players. CF players are the most paid and RAM players are the most valued. They both are not in the top 3 of the other category.
 <br>
+
 [You can find the full analysis notebook here, including the code and the data here](./notebooks/analysis1.ipynb)
 
 <hr/>
@@ -92,6 +93,7 @@ I used the five stats that have been graphed above. I used them because my knowl
 <br><br>
 I used the overall rating to see where the CAM position compared to the others in general. This gave me a good starting point, so far the CAM position is really good, but is not far and above other positions.However, this led me to question wether or not certain positions on the field are more prone to more/less of a certain stats, purely based on physical position on the field. So as the CAM position is further up the field their defensive stats ended up being much lower than many other positions. I concluded that the CAM position must be in a worse place to gain defensive stats. So I removed the defensive stats from the analysis as I wanted to know if CAM players were the most technically gifted. I was left with dribbling, short passing, crossing, and shot power. I found that the CAM players are still arguably contains the best offensive technical players on the field, however the position itself is not far more or less impressive than many other position.
 <br>
+
 [You can find the full analysis notebook here, including the code and the data here](./notebooks/analysis2.ipynb)
 
 <hr/>
@@ -132,6 +134,7 @@ c) Specific Age and Overall vs ATT, DEF, PAC, PHY, DRI, and PAS plots are shown 
 <img src ="images/Analysis3/tableau1.png" width='500px'> 
 <img src ="images/Analysis3/tableau2.png" width='500px'> 
 
+[You can find the full analysis notebook here, including the code and the data here](./notebooks/analysis3.ipynb)
 
 <hr/>
 <br>
