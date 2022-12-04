@@ -8,9 +8,9 @@
 | ----------- | ----------- | ---------|
 | 1 | Form Team and Find Dataset | Completed|
 | 2 | Create Repository and Load Dataset | Completed|
-| 3 | Data Analysis | Not Started|
-| 4 | Present your Dashboard! | Not Started |
-| 5 | Address Feedback and Refine Project | Not Started|
+| 3 | Data Analysis | Completed|
+| 4 | Present your Dashboard! | Completed |
+| 5 | Address Feedback and Refine Project | Completed|
 
 </div>
 
