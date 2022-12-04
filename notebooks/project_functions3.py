@@ -33,31 +33,3 @@ def remove_exs(df):
     return df
 
 
-'''def arrange_pos(df):
-    attackers = ['ST','CF','RW','LW','RF','LF','LS','RS']
-    pattern1 = '|'.join(attackers)
-    midfielders = ['RM','LM','CAM','CM','CDM','LAM','RAM','CDM','LDM','RDM','RCM','LCM']
-    pattern2 = '|'.join(midfielders)
-    defenders = ['CB','LCB','RCB','LB','RB','LWB','RWB']
-    pattern3 = '|'.join(defenders)
-
-    GenPosition = []
-
-    for i in range(len(df)df):
-        if   str(df.Position[i]) in attackers:
-                GenPosition.append("Attacker")
-        elif str(df.Position[i]) in midfielders:
-                GenPosition.append("Midfielder")
-        elif str(df.Position[i]) in defenders:
-                GenPosition.append("Defender")
-        elif str(df.Position[i]) in (['GK']):
-                GenPosition.append("Goalkeeper")
-        else:
-                GenPosition.append("Not Playing")
-        
-
-    print(len(GenPosition))
-    df['GenPosition'] = GenPosition
-    return df
-
-#def arrange_attribute(df) pace shooting defending dribbling passingphysical'''
