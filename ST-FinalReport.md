@@ -15,7 +15,7 @@ This data set was found on kaggle.com from the author, BRYANB. The author was ab
 # Question 1 - Relationship Between Age and Performance
 To find out a relationship between age and performance, we use a simple scatter plot with age on y-axis and player performance or overall rating on the x-axis.
 We can clearly see a linear positive relationship as age increases, overall increases but we do see an overplot in certain regions indicating that most of the players are in that overall and age region.
-![Relationship Between Age and Performance](../images/Analysis3/scatter1.png)
+![Relationship Between Age and Performance](scatter1.png)
 ![Count of Players in an age with Overall](project-group28/images/Analysis3/barplot.png)
 
 # Question 2 - Using specific stats with Age and Performance
