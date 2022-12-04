@@ -1,0 +1,3 @@
+## Conclusion
+
+From our exploratory data analysis project looking at a FIFA 2022 data set, we have answered the questions: What is the relationship between a players financial figures and their other attributes? Are Center Attack Midfielders (CAM) are generally better than players in other postions? What is the relationship between age of the player with position and performance, and with other attributes? We found: age, nationality, postition, and overall all correlated in some way to the value of a player, CAMs are very good, but not excedingly better than players in other positions in general, and overall rating and technical attributes increase with age, however stats surroudning strength decrease as age increases.
