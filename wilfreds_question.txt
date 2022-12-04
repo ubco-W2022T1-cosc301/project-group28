@@ -1,5 +1,5 @@
 ![301_graphs.png](attachment:301_graphs.png)
-# Research Question:
+# Question 1:
 ### I wish to find out if Center Attack Midfielders are generally better than players in other positions, as CAM are often thought of as the most technically gifted.
 
 I used the five stats that have been graphed above. I used them because my knowledge of FIFA is quite limited and I thought of these stats to be the most "skillful" of what was in the data set. 
