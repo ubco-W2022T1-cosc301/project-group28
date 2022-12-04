@@ -82,11 +82,11 @@ The following is what can answer the above question:
 <br>
 <h2> Question 2: </h2>
 
+<h3> I wish to find out if Center Attack Midfielders are generally better than players in other positions, as CAM are often thought of as the most technically gifted. </h3>
+
 <img src ="images/301_graphs.png" width='500px'> <br>
 
 
-
-<h3> I wish to find out if Center Attack Midfielders are generally better than players in other positions, as CAM are often thought of as the most technically gifted. </h3>
 <br>
 I used the five stats that have been graphed above. I used them because my knowledge of FIFA is quite limited and I thought of these stats to be the most "skillful" of what was in the data set. 
 <br><br>
@@ -109,7 +109,7 @@ We can clearly see a linear positive relationship as age increases, overall incr
 
 <hr/>
 <br>
-<h3>Part 2:Using specific stats with Age and Performance</h3>
+<h3>Part 2: Using specific stats with Age and Performance</h3>
 
 We took a few different plots to see the specific differences between stats and overall and age
 <br>
@@ -122,6 +122,7 @@ a) Heatmap of Overall, Shooting Attributes and Age: a positive correlation with 
 <br>
 
 b) Distribution of Player Age and Overall with Dribbling Rating: shows that the dribbling rating usually peaks around age 24-27 and tends to drop after that age.
+
 <img src ="images/Analysis3/heatmap.png" width='500px'> 
 
 
