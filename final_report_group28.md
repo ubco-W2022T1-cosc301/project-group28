@@ -72,7 +72,7 @@ RAM position players are most valuable players followed by LF, LAM, RCB and CF. 
 
 The following is what can answer the above question:
 1. Age has no direct correlation to value. But, overall has some correlation to the age and value. From this, we can see that there might be some indirect correlation between age and value.
-1. Wage and Release Clause have a linear relationship with Value
+1. Height and Weight have no real correlation with financials of a player
 1. On average, players from Europe and South America are valued more and have higher wages
 1. CF and RAM are the most rarest players. CF players are the most paid and RAM players are the most valued. They both are not in the top 3 of the other category.
 <br>
